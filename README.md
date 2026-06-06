@@ -3,7 +3,8 @@ Claude Code UX Simulator
 
 An interactive React simulator designed to test micro-friction, state capsuling, and log integrity within AI agent terminal environments. 
 
-[ Live Interactive Prototype ] · [ Portfolio Case Study ]
+Clickable Prototype
+https://irenecancode.github.io/Claude-Code-Re-design/
 
 ---
 
