@@ -11,7 +11,7 @@ https://irenecancode.github.io/Claude-Code-Re-design/
 ## Architecture & Constraints
 
 ### AI Agent UI & Action Constraints
-* **Intent Tags:** Prepends the active action state (`Analyze`, `Plan`, `Read`, `Retrieve`) as a terminal tag before executing any bash command to maintain high visual visibility.
+* **One verb summary** Prepends the active action state (`Analyze`, `Plan`, `Read`, `Retrieve`) as a terminal tag before executing any bash command to maintain high visual visibility.
 * **Safe Mode:** Displays a standard, low-friction monochrome UI for read-only actions or local sandbox builds to minimize cognitive load.
 * **Destructive Actions:** Triggers explicit security warning strings before requesting human approval if a command risks a git checkout, branch switch, or local file overwrite.
 
